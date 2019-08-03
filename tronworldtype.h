@@ -3,7 +3,7 @@
 
 #pragma GCC diagnostic push
 
-#pragma GCC diagnostic ignored "-Wunused-local-typedefs"
+
 #include <boost/checked_delete.hpp>
 #pragma GCC diagnostic pop
 

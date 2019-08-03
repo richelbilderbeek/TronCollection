@@ -1,6 +1,6 @@
 #pragma GCC diagnostic push
 
-#pragma GCC diagnostic ignored "-Wunused-local-typedefs"
+
 #include <QApplication>
 #include "qttrongamedialog.h"
 #pragma GCC diagnostic pop

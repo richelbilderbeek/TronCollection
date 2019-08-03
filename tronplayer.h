@@ -3,7 +3,7 @@
 
 #pragma GCC diagnostic push
 
-#pragma GCC diagnostic ignored "-Wunused-local-typedefs"
+
 #include <cassert>
 
 #include <boost/cast.hpp>
