@@ -3,12 +3,12 @@
 
 #include <cassert>
 
-#pragma GCC diagnostic push
+
 
 
 
 #include "tronplayer.h"
-#pragma GCC diagnostic pop
+
 
 namespace ribi {
 namespace tron {

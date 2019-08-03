@@ -1,7 +1,7 @@
 #include <cassert>
 #include <cstdlib>
 
-#pragma GCC diagnostic push
+
 
 
 
@@ -18,7 +18,7 @@
 #include "tronplayer.h"
 #include "ui_qttrongamedialog.h"
 #include "tronworldtype.h"
-#pragma GCC diagnostic pop
+
 
 ribi::tron::QtTronGameDialog::QtTronGameDialog(
   QWidget *parent, const std::vector<boost::shared_ptr<Player> > players)

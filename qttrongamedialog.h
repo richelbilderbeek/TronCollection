@@ -1,7 +1,7 @@
 #ifndef DIALOGGAME_H
 #define DIALOGGAME_H
 
-#pragma GCC diagnostic push
+
 
 
 #include <vector>
@@ -11,7 +11,7 @@
 #include "qthideandshowdialog.h"
 
 #include "tronplayer.h"
-#pragma GCC diagnostic pop
+
 
 struct QGraphicsScene;
 struct QGraphicsPixmapItem;

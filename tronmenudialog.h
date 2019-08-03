@@ -1,11 +1,11 @@
 #ifndef TRONCOLLECTIONMENUDIALOG_H
 #define TRONCOLLECTIONMENUDIALOG_H
 
-#pragma GCC diagnostic push
+
 
 
 #include "menudialog.h"
-#pragma GCC diagnostic pop
+
 
 namespace ribi {
 

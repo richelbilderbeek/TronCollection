@@ -1,11 +1,11 @@
 #ifndef WORLDTYPE_H
 #define WORLDTYPE_H
 
-#pragma GCC diagnostic push
+
 
 
 #include <boost/checked_delete.hpp>
-#pragma GCC diagnostic pop
+
 
 namespace ribi {
 namespace tron {

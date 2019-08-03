@@ -1,9 +1,9 @@
-#pragma GCC diagnostic push
+
 
 
 #include <QApplication>
 #include "qttrongamedialog.h"
-#pragma GCC diagnostic pop
+
 
 int main(int argc, char *argv[])
 {

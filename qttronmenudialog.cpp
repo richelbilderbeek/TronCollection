@@ -1,4 +1,4 @@
-#pragma GCC diagnostic push
+
 
 #include "qttronmenudialog.h"
 
@@ -8,7 +8,7 @@
 #include "ui_qttronmenudialog.h"
 #include "testtimer.h"
 #include "trace.h"
-#pragma GCC diagnostic pop
+
 
 ribi::tron::QtTronMenuDialog::QtTronMenuDialog(QWidget *parent)
   : QtHideAndShowDialog(parent),

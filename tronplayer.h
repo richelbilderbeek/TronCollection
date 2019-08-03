@@ -1,7 +1,7 @@
 #ifndef PLAYER_H
 #define PLAYER_H
 
-#pragma GCC diagnostic push
+
 
 
 #include <cassert>
@@ -11,7 +11,7 @@
 
 #include <QColor>
 #include "tronworldtype.h"
-#pragma GCC diagnostic pop
+
 
 namespace ribi {
 namespace tron {

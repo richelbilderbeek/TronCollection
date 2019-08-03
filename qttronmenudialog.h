@@ -1,10 +1,10 @@
 #ifndef QTTRONCOLLECTIONMENUDIALOG_H
 #define QTTRONCOLLECTIONMENUDIALOG_H
 
-#pragma GCC diagnostic push
+
 
 #include "qthideandshowdialog.h"
-#pragma GCC diagnostic pop
+
 
 namespace Ui {
   class QtTronMenuDialog;
