@@ -1,7 +1,9 @@
-language: generic
-dist: xenial
+language: cpp
+dist: bionic
+compiler: gcc
 
-install:
+install: 
+  - sudo apt update -qq
   # Check dead links
   - sudo apt-get install -qq npm
   - npm config set strict-ssl false
