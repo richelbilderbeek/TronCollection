@@ -10,6 +10,6 @@
 
 ![Score](score.png)
 
-## VCL
+## Qt
 
-![The Tron Collection VCL](screenshot_menu.png)
+![The Tron Collection Qt](screenshot_menu.png)
