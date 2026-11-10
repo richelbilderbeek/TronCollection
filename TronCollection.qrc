@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file alias="R.png">pics/R.png</file>
+        <file alias="author_classic.png">pics/author_classic.png</file>
+        <file alias="author_super.png">pics/author_super.png</file>
+        <file alias="classic_tron.png">pics/classic_tron.png</file>
+        <file alias="own_color_harmful.png">pics/own_color_harmful.png</file>
+        <file alias="own_color_harmless.png">pics/own_color_harmless.png</file>
+        <file alias="super_tron.png">pics/super_tron.png</file>
+        <file alias="ultimate_tron.png">pics/ultimate_tron.png</file>
+        <file alias="world_donut.png">pics/world_donut.png</file>
+        <file alias="world_flat.png">pics/world_flat.png</file>
+    </qresource>
+</RCC>
