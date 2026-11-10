@@ -31,7 +31,7 @@ at [TronCollectionVcl](https://github.com/richelbilderbeek/TronCollectionVcl).
 
 Requires Qt 5.15 or Qt 6 and a C++17 compiler.
 
-```
+```bash
 qmake TronCollection.pro
 make
 ./TronCollection
@@ -39,7 +39,7 @@ make
 
 Tests of the game rules:
 
-```
+```bash
 cd tests
 qmake TronCollectionTest.pro
 make
