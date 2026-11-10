@@ -1,5 +1,7 @@
 # TronCollection
 
+[![Build](https://github.com/richelbilderbeek/TronCollection/actions/workflows/build.yml/badge.svg)](https://github.com/richelbilderbeek/TronCollection/actions/workflows/build.yml)
+
 Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 ---|---
 `master`|[![Build Status](https://travis-ci.org/richelbilderbeek/TronCollection.svg?branch=master)](https://travis-ci.org/richelbilderbeek/TronCollection)
