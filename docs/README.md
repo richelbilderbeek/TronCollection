@@ -1,16 +1,15 @@
 # TronCollection
 
-[![Build](https://github.com/richelbilderbeek/tron_collection/actions/workflows/build.yml/badge.svg)](https://github.com/richelbilderbeek/tron_collection/actions/workflows/build.yml)
-
 C++ Tron Collection games
 
-![The Tron Collection](pics/screenshot_menu.png)
+![The Tron Collection](screenshot_menu.png)
 
 The Tron Collection: Classic Tron and Super Tron, simple multiplayer
 Tron games for 2 to 20 players on one keyboard.
 
- * Classic Tron: players move up, down, left or right
- * Super Tron: players turn in steps of 360/n degrees, where n is set by the 'Angles' slider
+- Classic Tron: players move up, down, left or right
+- Super Tron: players turn in steps of `360/n` degrees,
+  where `n` is set by the 'Angles' slider
 
 This is a Qt port of the C++ Builder (VCL) original
 at [TronCollectionVcl](https://github.com/richelbilderbeek/TronCollectionVcl).
