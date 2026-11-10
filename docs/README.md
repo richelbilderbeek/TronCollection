@@ -1,8 +1,6 @@
 # TronCollection
 
-Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
----|---
-`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/TronCollection.svg?branch=master)](https://travis-ci.org/richelbilderbeek/TronCollection)
+[![Build](https://github.com/richelbilderbeek/tron_collection/actions/workflows/build.yml/badge.svg)](https://github.com/richelbilderbeek/tron_collection/actions/workflows/build.yml)
 
 C++ Tron Collection games
 
