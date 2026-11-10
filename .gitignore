@@ -26,3 +26,12 @@
 *.exe
 *.out
 *.app
+
+# Build output
+*.o
+moc_*
+qrc_*
+Makefile
+.qmake.stash
+TronCollection
+tests/TronCollectionTest
